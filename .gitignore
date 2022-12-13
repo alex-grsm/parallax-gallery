@@ -2,5 +2,3 @@
 /app
 package-lock.json
 /example
-/resources/phpmailer
-/resources/mail.php
